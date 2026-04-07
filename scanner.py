@@ -46,8 +46,8 @@ finally:
     zeroconf.close()
 
 
-# Use the IP address we just found
-IP = "192.168.3.13"
+# Use the IP address just found
+IP = "THE IP I JUST FOUND"
 
 def get_info():
     # Common LinkPlay status endpoints
